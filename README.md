@@ -26,7 +26,7 @@ Weather-and-Urban-Centre-Emissions-Project
 │   └── MET Office Data Exploration/
 │   └── EMDAT & GDIS Data Exploration/
 │   └── WHO Disease Data Exploration/
-├── Datasets/                          # Merged datasets containing with and without outliers
+├── Datasets/                          # Merged datasets with and without outliers
 ├── README.md
 └── .gitignore
 </pre>
