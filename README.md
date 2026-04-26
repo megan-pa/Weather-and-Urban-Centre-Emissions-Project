@@ -23,9 +23,10 @@ Weather-and-Urban-Centre-Emissions-Project
 │   └── Dimensionality Reduction/
 │   └── Machine Learning/
 ├── Data Visualisation/                # Plots and figures from dataset visualisation and exploration
-│   └── MET Office Data Exploration/
-│   └── EMDAT & GDIS Data Exploration/
-│   └── WHO Disease Data Exploration/
+│   └── MET Office Data/
+│   └── EMDAT & GDIS/
+│   └── GHSL UCDB/
+│   └── WHO Disease Data/
 ├── Datasets/                          # Merged datasets with and without outliers
 ├── README.md
 └── .gitignore
