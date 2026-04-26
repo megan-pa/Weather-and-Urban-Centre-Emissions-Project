@@ -16,6 +16,20 @@ For this research, multiple datasets have been combined to investigate links bet
 Our final merged dataset combined disaster, climate and socioeconomic data into a unified dataset. This included 16 features relating to environmental and development indicators and was used for our data modelling section. Further details on how this dataset was created can be found in the report.
 
 ## Repository Structure
+<pre>
+Weather-and-Urban-Centre-Emissions-Project
+├── Data Exploration/                  # Initial analysis and EDA of MET Office data
+├── Data Modelling/                    # PCA, t-SNE and modelling figures 
+│   └── Dimensionality Reduction/
+│   └── Machine Learning/
+├── Data Visualisation/                # Plots and figures from dataset visualisation and exploration
+│   └── MET Office Data Exploration/
+│   └── EMDAT & GDIS Data Exploration/
+│   └── WHO Disease Data Exploration/
+├── Datasets/                          # Merged datasets containing with and without outliers
+├── README.md
+└── .gitignore
+</pre>
 
 ## Visualisations
 This repository contains additional visualisations that support the analysis presented in the report. These include the following: 
